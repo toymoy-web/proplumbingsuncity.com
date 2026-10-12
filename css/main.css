@@ -173,3 +173,5 @@ footer .wrap{display:flex;justify-content:space-between;flex-wrap:wrap;gap:24px}
 /* Page hero images */
 .page-hero-img{border-radius:14px;overflow:hidden;margin:18px 0;border:1px solid var(--line)}
 .page-hero-img img{width:100%;height:auto;display:block}
+
+.why + p{margin-top:16px}
